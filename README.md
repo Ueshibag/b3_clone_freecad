@@ -1,7 +1,7 @@
 
 # B3 clone FreeCAD projects
 
-## Accessoires
+## Accessories
 
 Small parts
 
@@ -13,7 +13,7 @@ Aluminium (actually iron parts)
 
 Assemblies
 
-## Menuiserie
+## Carpentry
 
 Wood parts
 
